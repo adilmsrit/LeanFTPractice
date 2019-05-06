@@ -1,4 +1,4 @@
-package TempTest;
+package Test;
 
 public class Song {
 

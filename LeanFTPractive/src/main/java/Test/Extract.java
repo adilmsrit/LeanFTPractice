@@ -1,10 +1,7 @@
-package TempTest;
-
-import org.junit.experimental.categories.Categories;
+package Test;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.Scanner;
 
