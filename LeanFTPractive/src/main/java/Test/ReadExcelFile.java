@@ -14,6 +14,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import static java.sql.Types.BOOLEAN;
+import static java.sql.Types.NUMERIC;
+import static org.apache.poi.ss.usermodel.DataValidationConstraint.ValidationType.FORMULA;
+import static org.apache.xmlbeans.impl.piccolo.xml.Piccolo.STRING;
+
 public class ReadExcelFile {
     String fileLocation = "D:\\adil.xlsx";
 
