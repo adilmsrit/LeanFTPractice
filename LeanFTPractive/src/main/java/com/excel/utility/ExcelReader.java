@@ -1,4 +1,4 @@
-package Test;
+package com.excel.utility;
 
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -9,7 +9,7 @@ import java.io.FileInputStream;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ExcelReaderHorizontal {
+public class ExcelReader {
 
     public static final String EXCELFILELOCATION = "D:\\ExcelFileH.xlsx";
 
@@ -35,28 +35,11 @@ public class ExcelReaderHorizontal {
         Map<String, Map<String, String>> superMap = new HashMap<String, Map<String, String>>();
         Map<String, String> myMap = new HashMap<String, String>();
 
-        /*for (int i = 0; i < row.getLastCellNum() - 1; i++) {
-            row = sheet.getRow(i);
-            String keyCell = row.getCell(0).getStringCellValue();
-            int colNum = row.getLastCellNum();
-            for (int j = 1; j < colNum; j++) {
-                String value = row.getCell(j).getStringCellValue();
-                myMap.put(keyCell, value);
-            }
-            superMap.put("MASTERDATA", myMap);
-        }*/
+        for (int i = 0; i < sheet.getLastRowNum(); i++) {
+            System.out.println(row.getLastCellNum());
 
-        for (int i = 0; i < row.getLastCellNum(); i++) {
-            String keyCell = row.getCell(i).getStringCellValue();
 
-            int rowNum = sheet.getLastRowNum();
-            for (int j = 0; j < rowNum - 1; j++) {
-                String value = row.getCell(j).getStringCellValue();
-                myMap.put(keyCell, value);
-            }
-            superMap.put("MASTERDATA", myMap);
         }
-
         return superMap;
     }
 

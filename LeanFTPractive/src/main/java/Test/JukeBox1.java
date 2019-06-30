@@ -12,7 +12,6 @@ public class JukeBox1 {
     ArrayList<Song> songs = new ArrayList<Song>();
 
 
-
     public static void main(String[] args) {
         new JukeBox1().go();
     }
