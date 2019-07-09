@@ -5,11 +5,12 @@ import java.util.Iterator;
 
 public class ArrayListExample {
 
-
     int a[] = new int[3];
 
     public static void main(String[] args) {
-        /*ArrayList<Integer> arrayList = new ArrayList<Integer>();
+
+        /*
+        ArrayList<Integer> arrayList = new ArrayList<Integer>();
 
         arrayList.add(10);
         arrayList.add(20);
@@ -18,11 +19,10 @@ public class ArrayListExample {
         arrayList.add(50);
 
         System.out.println(arrayList.size());
-
         for (int i = 0; i < arrayList.size(); i++) {
             System.out.println(arrayList.get(i));
-
-        }*/
+        }
+        */
 
         Employee e1 = new Employee("Naveen", 27, "QA");
         Employee e2 = new Employee("Tom", 28, "Dev");
@@ -32,7 +32,6 @@ public class ArrayListExample {
         ar4.add(e1);
         ar4.add(e2);
         ar4.add(e3);
-
 
         //Iterator to traverse the values.
 
@@ -44,8 +43,6 @@ public class ArrayListExample {
             System.out.println(employee.name);
             System.out.println(employee.dept);
         }
-
-
 
     }
 }
