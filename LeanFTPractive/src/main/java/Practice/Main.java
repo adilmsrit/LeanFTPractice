@@ -1,8 +1,4 @@
-package tmp;
-
-import java.util.Stack;
-import java.util.HashMap;
-import java.util.Arrays;
+package Practice;
 
 public class Main {
 

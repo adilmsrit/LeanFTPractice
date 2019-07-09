@@ -1,4 +1,4 @@
-package tmp;
+package Practice;
 
 import java.util.HashMap;
 

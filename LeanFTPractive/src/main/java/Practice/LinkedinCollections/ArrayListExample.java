@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tmp.LinkedinCollections;
+package Practice.LinkedinCollections;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- *
  * @author Producer
  */
 public class ArrayListExample {
@@ -18,7 +17,7 @@ public class ArrayListExample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
- 
+
         String[] platform1 = {"PS4"};
         String[] platform2 = {"3DS", "Wii U"};
         VideoGame game1 = new VideoGame("Battlefield 1", 2001, "M", platform1);
@@ -32,14 +31,12 @@ public class ArrayListExample {
         videoGameArrayList.add(game3);
 
         System.out.println(videoGameArrayList.size());
-
         Iterator iterator = videoGameArrayList.iterator();
 
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
-            
-        }
 
+        }
     }
-    
+
 }

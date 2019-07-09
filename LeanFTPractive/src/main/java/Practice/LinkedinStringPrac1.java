@@ -1,4 +1,4 @@
-package tmp;
+package Practice;
 
 public class LinkedinStringPrac1 {
 

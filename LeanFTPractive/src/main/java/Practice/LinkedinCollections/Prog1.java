@@ -1,6 +1,5 @@
-package tmp.LinkedinCollections;
+package Practice.LinkedinCollections;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Prog1 {
