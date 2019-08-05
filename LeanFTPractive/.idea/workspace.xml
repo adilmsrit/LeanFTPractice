@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ddeb855-d3e0-4f8b-9238-b2c916892915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Algorithms/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/LinkedinCollections/clallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/LinkedinCollections/linkedlistexample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tmp/LinkedinCollections/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/LinkedinCollections/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tmp/LinkedinCollections/Prog1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/LinkedinCollections/Prog1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tmp/LinkedinCollections/VideoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/LinkedinCollections/VideoGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tmp/LinkedinStringPrac1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/LinkedinStringPrac1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tmp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tmp/Queues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/Queues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice/Algorithms/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/Algorithms/Recursion.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,8 +39,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Practice/Algorithms/Recursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+            <state relative-caret-position="495">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,10 +147,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1383" />
-    <option name="height" value="744" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -165,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,7 +220,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562652798531</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="latest">
+      <created>1562700410066</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562700410066</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -406,13 +408,13 @@
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22473727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.2617801" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.2547993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35253054" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -432,7 +434,8 @@
     <MESSAGE value="Adil2" />
     <MESSAGE value="LinkedInPrac1" />
     <MESSAGE value="With Iterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="With Iterator" />
+    <MESSAGE value="latest" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -442,6 +445,18 @@
           <line>5</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practice/Algorithms/Recursion.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practice/Algorithms/Recursion.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -668,8 +683,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Practice/Algorithms/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        <state relative-caret-position="495">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
