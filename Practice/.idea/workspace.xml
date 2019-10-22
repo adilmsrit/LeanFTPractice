@@ -2,137 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Eagles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_common_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_report_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_reportbuilder_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_sdk_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_unittesting_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_verifications_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__net_java_dev_jna_jna_4_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_glassfish_tyrus_bundles_tyrus_standalone_client_1_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_reflections_reflections_0_9_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_testng_testng_6_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/LeanFTPractive.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/Writesheet.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/adil.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/appmodels/ObjectRepository/Login_Repo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_05.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_report_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_sdk_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_unittesting_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_verifications_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_testng_testng_6_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/LeanFTPractive.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/Writesheet.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$ButtonNodeBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$EditFieldNodeBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login$LoginButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login$PasswordEditField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login$UsernameEditField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$PageNodeBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/ObjectRepository/Login_Repo.tsrx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/TempTest/JukeBox1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/TempTest/Writesheet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/com/LeanFtTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/unittesting/UnitTestClassBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/resources/leanft.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/test/java/PackageLogin/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Elephant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Shark.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Zebra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/ObjectRepository/Login_Repo.tsrx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/Algorithms/Recursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/ArrayListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/Prog1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/VideoGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/clallenge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/linkedlistexample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinStringPrac1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/Queues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/TempTesterAdil/Conversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Extract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/JukeBox1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Naveens/ArrayListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Naveens/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Song.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/LeanFtTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/ExcelReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/ExcelReaderHorizontal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/ReadExcelFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/Writesheet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/Xls_Reader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/unittesting/UnitTestClassBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/resources/adil.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/resources/leanft.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/test/java/PackageLogin/Login.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Kangroo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Marsupial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Marsupial.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -148,24 +20,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Marsupial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="80">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="1" selection-end-line="4" selection-end-column="5" />
+              <folding>
+                <element signature="e#55#56#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Eagles.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Kangroo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="100">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,6 +57,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mohammed.Nazeer &lt;mohammed.nazeer@emaratech.ae&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -187,6 +69,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Birds.java" />
         <option value="$PROJECT_DIR$/src/main/java/Eagles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Marsupial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Kangroo.java" />
       </list>
     </option>
   </component>
@@ -268,6 +152,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Kangroo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kangroo" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Kangroo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -281,28 +179,37 @@
       <workItem from="1570888031403" duration="42000" />
       <workItem from="1570888177407" duration="1579000" />
       <workItem from="1570945552851" duration="26000" />
-      <workItem from="1571766390215" duration="11000" />
+      <workItem from="1571766390215" duration="811000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1571766486784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571766486784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1658000" />
+    <option name="totallyTimeSpent" value="2458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -310,7 +217,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -326,6 +233,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Kangroo.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -339,8 +262,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Eagles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Marsupial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="1" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#55#56#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kangroo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
