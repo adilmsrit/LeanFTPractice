@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 
 public class SendCharSequence {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
@@ -33,4 +33,6 @@ public class SendCharSequence {
         email.sendKeys(stringBuilder, stringBuffer, Keys.TAB);
 
     }
+
+
 }
