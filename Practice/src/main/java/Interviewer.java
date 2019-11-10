@@ -1,4 +1,4 @@
-public interface Interviewer {
+public abstract interface Interviewer {
     void conductInterview();
 
 }

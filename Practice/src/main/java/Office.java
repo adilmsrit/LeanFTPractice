@@ -1,10 +1,12 @@
 public class Office {
 
     public static void main(String... args) {
-        HRExecutive hrExecutive = new HRExecutive();
-        hrExecutive.specialization = new String[]{"Staffing"};
-//        hrExecutive.conductInterview();
-        hrExecutive.name = "Adil";
+        Interviewer hrExecutive = new HRExecutive();
+
+// Below is the example for casting.
+        ((HRExecutive) hrExecutive).specialization = new String[]{"Staffing"};
+        hrExecutive.conductInterview();
+        ((HRExecutive) hrExecutive).name = "Adil";
 
         Interviewer[] interviewer = new Interviewer[2];
         interviewer[0] = new Manager();
