@@ -3,4 +3,8 @@ public class Employee {
     String address;
     String phoneNumber;
     float experience;
+
+    void punchIn(){
+        System.out.println("Punch In");
+    }
 }

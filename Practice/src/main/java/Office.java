@@ -16,6 +16,5 @@ public class Office {
 
         interviewer[1].conductInterview();
 
-
     }
 }
