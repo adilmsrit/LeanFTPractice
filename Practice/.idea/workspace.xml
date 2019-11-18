@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="140">
+              <caret line="22" column="87" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -390,7 +390,7 @@
       <workItem from="1573906343182" duration="2014000" />
       <workItem from="1573980775408" duration="4899000" />
       <workItem from="1574010365923" duration="384000" />
-      <workItem from="1574062571069" duration="6174000" />
+      <workItem from="1574062571069" duration="6224000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1571766486784</created>
@@ -448,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574065502876</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Stream Example1">
+      <created>1574077225900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574077225900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -460,7 +467,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39391000" />
+    <option name="totallyTimeSpent" value="39441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -509,7 +516,8 @@
     <MESSAGE value="Casting Example" />
     <MESSAGE value="Polymorphism Examples." />
     <MESSAGE value="Casting example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Casting example" />
+    <MESSAGE value="Stream Example1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream Example1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java" />
@@ -720,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="140">
+          <caret line="22" column="87" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
