@@ -22,14 +22,12 @@ public class AnimalFeeder {
         new AnimalFeeder().feed(animals);
         System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
 
-
         //Below is an Interface
         Mew mew = new Cat();
         mew.meow();
         //To make mew obj access Cat class methods, we need to upcast the subclass obj mew to
         // Cat parent class and then access the
         ((Cat)mew).eat();
-
     }
 
     public void feed(List<Animal> animals) {
