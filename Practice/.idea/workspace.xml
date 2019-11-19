@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,17 +22,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/UseStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="141">
+              <caret line="32" column="84" selection-start-line="32" selection-start-column="84" selection-end-line="32" selection-end-column="84" />
+              <folding>
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,12 +131,13 @@
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/AnimalFeeder.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/SreeStreams/UseStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Boy.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" />
       </list>
     </option>
   </component>
@@ -125,7 +160,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="574" />
+    <option name="x" value="573" />
     <option name="y" value="57" />
     <option name="width" value="1383" />
     <option name="height" value="756" />
@@ -138,8 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,26 +204,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ploymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ploymorphism" type="462c0819:PsiDirectoryNode" />
-              <item name="StaticAndDynamicBinding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ploymorphism" type="462c0819:PsiDirectoryNode" />
-              <item name="StaticAndDynamicBinding" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicBinding" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -226,6 +240,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,20 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Boy">
-    <configuration name="AnimalFeeder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ploymorphism.AnimalFeeder" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ploymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SingleTonClass">
     <configuration name="Boy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
       <module name="Practice" />
@@ -311,6 +314,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingleTonClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonClass.SingleTonClass" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SingletonClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SreeStreams.StreamsExample" />
       <module name="Practice" />
@@ -326,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleTonClass" />
+        <item itemvalue="Application.StreamsExample" />
         <item itemvalue="Application.Boy" />
         <item itemvalue="Application.Boy (1)" />
-        <item itemvalue="Application.StreamsExample" />
         <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.AnimalFeeder" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +391,8 @@
       <workItem from="1573906343182" duration="2014000" />
       <workItem from="1573980775408" duration="4899000" />
       <workItem from="1574010365923" duration="384000" />
-      <workItem from="1574062571069" duration="8596000" />
+      <workItem from="1574062571069" duration="9244000" />
+      <workItem from="1574139933883" duration="2456000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1571766486784</created>
@@ -454,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574079894243</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Dynamic Binding example">
+      <created>1574080132334</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574080132334</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -466,13 +490,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41813000" />
+    <option name="totallyTimeSpent" value="44917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20242915" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20566802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -518,7 +542,8 @@
     <MESSAGE value="Stream Example1" />
     <MESSAGE value="Stream Example" />
     <MESSAGE value="Static Binding example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static Binding example" />
+    <MESSAGE value="Dynamic Binding example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Binding example" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java" />
@@ -667,13 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -727,34 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/UseStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -777,10 +768,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/UseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="32" column="84" selection-start-line="32" selection-start-column="84" selection-end-line="32" selection-end-column="84" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

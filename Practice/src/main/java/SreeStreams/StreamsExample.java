@@ -29,7 +29,5 @@ public class StreamsExample {
                 .stream()
                 .forEach(a -> System.out.println(a));
 
-
-
     }
 }
