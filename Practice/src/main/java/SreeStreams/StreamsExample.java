@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class StreamsExample {
 
     public static void main(String... args) {
-        List<Integer> nums = Arrays.asList(1, 2, 3);
+        List<String> stringList = Arrays.asList("1", "2", "3");
 
         /*Below create a new String, take the original string and convert to the stream
         On this stream use map and for each item of the map take the string value of the item(Which is an integer)
@@ -15,19 +15,24 @@ public class StreamsExample {
         Now you can print out the list.
          */
 
-        List<String> numsStr1 = nums.stream().map(a->String.valueOf(a)).collect(Collectors.toList());
-        System.out.println(numsStr1);
+        List<Integer> integerList = stringList.stream()
+                .map(x->Integer.valueOf(x))
+                .collect(Collectors.toList());
+        System.out.println(integerList);
 
-        /*Convert nums List to Stream, use the map and for each item in the
+        String a = "adil";
+        System.out.println(a.equals(a));
+
+        /*Convert stringList List to Stream, use the map and for each item in the
         * map take the value of the item, then collect all to put it in a string.
         * Then again take the stream of the output, and for each Item print as output.
          */
-
-        nums.stream()
+/*
+        stringList.stream()
                 .map(a -> String.valueOf(a))
                 .collect(Collectors.toList())
                 .stream()
-                .forEach(a -> System.out.println(a));
+                .forEach(a -> System.out.println(a));*/
 
     }
 }
