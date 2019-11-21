@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MockExams/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/feature/APITestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/feature/APITestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HRExecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HRExecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,41 +25,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="180">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding>
-                <element signature="e#930#947#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="80">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Collector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="200">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="240">
+              <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,8 +104,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -104,7 +138,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Naveen/SendCharSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/Tiger.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HRExecutive.java" />
         <option value="$PROJECT_DIR$/src/main/java/Manager.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interviewer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Office.java" />
@@ -116,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Naveen/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/Naveen/ArrayListConcept.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/VetenaryDoctor.java" />
         <option value="$PROJECT_DIR$/src/main/java/HackerRank/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Mew.java" />
@@ -125,8 +157,6 @@
         <option value="$PROJECT_DIR$/src/main/java/SreeStreams/UseStream.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Boy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" />
@@ -136,6 +166,14 @@
         <option value="$PROJECT_DIR$/src/main/java/Collector.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HRExecutive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MockExams/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" />
       </list>
     </option>
   </component>
@@ -202,23 +240,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SingletonClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SreeStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="Imtiyaz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -245,9 +267,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Course" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,14 +286,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mohammed.nazeer\Desktop\APITesting\Practice\src\main\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mohammed.nazeer\Desktop\APITesting\Practice\src\main\java\Ploymorphism\StaticAndDynamicBinding\DynamicBinding" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ploymorphism" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mohammed.nazeer\Desktop\APITesting\Practice\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,9 +309,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Employee">
-    <configuration name="AnimalFeeder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ploymorphism.AnimalFeeder" />
+  <component name="RunManager" selected="Application.RecursionExample">
+    <configuration name="Boy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imtiyaz.RecursionExample" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Imtiyaz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockExams.TestClass" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MockExams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphism.WithLists" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -300,39 +362,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleTonClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonClass.SingleTonClass" />
+    <configuration name="adil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockExams.adil" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SingletonClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SreeStreams.StreamsExample" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SreeStreams.*" />
+          <option name="PATTERN" value="MockExams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.StreamsExample" />
-        <item itemvalue="Application.AnimalFeeder" />
-        <item itemvalue="Application.SingleTonClass" />
+        <item itemvalue="Application.RecursionExample" />
+        <item itemvalue="Application.WithLists" />
+        <item itemvalue="Application.Boy" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.adil" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +428,10 @@
       <workItem from="1574010365923" duration="384000" />
       <workItem from="1574062571069" duration="9244000" />
       <workItem from="1574139933883" duration="8625000" />
-      <workItem from="1574224061863" duration="10599000" />
+      <workItem from="1574224061863" duration="15522000" />
+      <workItem from="1574267174201" duration="1468000" />
+      <workItem from="1574311369258" duration="3977000" />
+      <workItem from="1574328215083" duration="2202000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1571766486784</created>
@@ -486,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574145757815</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Examples if Interfaces etc...">
+      <created>1574239085636</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574239085636</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -498,13 +543,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61685000" />
+    <option name="totallyTimeSpent" value="74255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20890689" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21538462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -513,7 +558,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.38010657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.38010657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,7 +581,7 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20890689" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21538462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,7 +629,8 @@
     <MESSAGE value="Static Binding example" />
     <MESSAGE value="Dynamic Binding example" />
     <MESSAGE value="SingleTonClass example." />
-    <option name="LAST_COMMIT_MESSAGE" value="SingleTonClass example." />
+    <MESSAGE value="Examples if Interfaces etc..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples if Interfaces etc..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java" />
@@ -650,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/ArrayListConcept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -664,34 +703,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HRExecutive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Programmer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Office1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -727,24 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -767,20 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -792,16 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/AnimalFeeder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,6 +815,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HRExecutive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Collector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -853,27 +842,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
+        <state relative-caret-position="520">
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MockExams/a.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="100">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Office1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding>
-            <element signature="e#930#947#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/AnimalFeeder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
