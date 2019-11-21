@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindDuplicateElementsInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,29 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindDuplicateElementsInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="122">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -66,6 +47,7 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindDuplicateElementsInArray.java" />
       </list>
     </option>
   </component>
@@ -178,7 +160,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindMissingNumber">
+  <component name="RunManager" selected="Application.FindDuplicateElementsInArray">
+    <configuration name="FindDuplicateElementsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.FindDuplicateElementsInArray" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaInterPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.FindMissingNumber" />
       <module name="Practice" />
@@ -218,19 +213,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MockExams.TestClass" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MockExams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ploymorphism.WithLists" />
       <module name="Practice" />
@@ -246,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDuplicateElementsInArray" />
         <item itemvalue="Application.FindMissingNumber" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.WithLists" />
-        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -283,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574359158898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FindMissingNumber">
+      <created>1574359931768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574359931768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4502000" />
+    <option name="totallyTimeSpent" value="5381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -303,7 +292,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41385436" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -362,7 +351,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Programs" />
     <MESSAGE value="ReverseInteger" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseInteger" />
+    <MESSAGE value="FindMissingNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindMissingNumber" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -458,8 +448,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="60">
+          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindDuplicateElementsInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
