@@ -2,137 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Eagles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_common_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_report_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_reportbuilder_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_sdk_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_unittesting_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__com_hp_lft_verifications_14_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__net_java_dev_jna_jna_4_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_glassfish_tyrus_bundles_tyrus_standalone_client_1_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_reflections_reflections_0_9_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_testng_testng_6_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/LeanFTPractive.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/RunResults/runresults.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/Writesheet.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/adil.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/appmodels/ObjectRepository/Login_Repo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_05.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_report_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_sdk_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_unittesting_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__com_hp_lft_verifications_14_52_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_testng_testng_6_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/LeanFTPractive.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/RunResults/runresults.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/Writesheet.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$ButtonNodeBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$EditFieldNodeBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login$LoginButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login$PasswordEditField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login$UsernameEditField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$NoqodiPage_Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo$PageNodeBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/appmodels/ObjectRepository/Login_Repo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/ObjectRepository/Login_Repo.tsrx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/TempTest/JukeBox1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/TempTest/Writesheet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/com/LeanFtTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/java/unittesting/UnitTestClassBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/resources/leanft.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/main/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/bin/src/test/java/PackageLogin/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Elephant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Shark.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/OCA/Zebra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/ObjectRepository/Login_Repo.tsrx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/Algorithms/Recursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/ArrayListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/Prog1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/VideoGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/clallenge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinCollections/linkedlistexample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/LinkedinStringPrac1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Practice/Queues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/TempTesterAdil/Conversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Extract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/JukeBox1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Naveens/ArrayListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Naveens/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/Test/Song.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/LeanFtTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/ExcelReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/ExcelReaderHorizontal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/ReadExcelFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/Writesheet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/com/excel/utility/Xls_Reader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/java/unittesting/UnitTestClassBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/resources/adil.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/resources/leanft.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/main/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeanFTPractive/src/test/java/PackageLogin/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -148,24 +19,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Eagles.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="207">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,19 +97,84 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mohammed Adil Nazeer &lt;mohammed.nazeer@emaratech.ae&gt;" />
+        <option value="Mohammed.Nazeer &lt;mohammed.nazeer@emaratech.ae&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Birds.java" />
         <option value="$PROJECT_DIR$/src/main/java/Eagles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Marsupial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Kangroo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/APITestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/feature/country.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/Rodent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/SendCharSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tiger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Manager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interviewer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Office.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bindings/Office1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bindings/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bindings/Programmer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/ArrayListConcept.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/VetenaryDoctor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HackerRank/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Mew.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/AnimalFeeder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SreeStreams/UseStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Boy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/feature/APITestRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Collector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HRExecutive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MockExams/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -202,8 +189,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1920" />
-    <option name="height" value="1020" />
+    <option name="x" value="573" />
+    <option name="y" value="57" />
+    <option name="width" value="1383" />
+    <option name="height" value="756" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -213,9 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Course" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,10 +227,42 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Imtiyaz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feature" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,9 +270,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mohammed.nazeer\Desktop\APITesting\Practice\src\main\java\Ploymorphism\StaticAndDynamicBinding\DynamicBinding" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ploymorphism" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mohammed.nazeer\Desktop\APITesting\Practice\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -267,6 +301,82 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imtiyaz.BinarySearch" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Imtiyaz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imtiyaz.RecursionExample" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Imtiyaz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockExams.TestClass" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MockExams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphism.WithLists" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ploymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.RecursionExample" />
+        <item itemvalue="Application.WithLists" />
+        <item itemvalue="Application.Boy" />
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -281,18 +391,165 @@
       <workItem from="1570888031403" duration="42000" />
       <workItem from="1570888177407" duration="1579000" />
       <workItem from="1570945552851" duration="26000" />
-      <workItem from="1571766390215" duration="11000" />
+      <workItem from="1571766390215" duration="968000" />
+      <workItem from="1571896816436" duration="1000" />
+      <workItem from="1571938629427" duration="7000" />
+      <workItem from="1571941691711" duration="1130000" />
+      <workItem from="1571988794565" duration="219000" />
+      <workItem from="1572002393979" duration="3652000" />
+      <workItem from="1572067182800" duration="831000" />
+      <workItem from="1572852375299" duration="24000" />
+      <workItem from="1572852433385" duration="182000" />
+      <workItem from="1572852644320" duration="28000" />
+      <workItem from="1572852939580" duration="28000" />
+      <workItem from="1572853425912" duration="147000" />
+      <workItem from="1572853677362" duration="200000" />
+      <workItem from="1572854328002" duration="36000" />
+      <workItem from="1572854523143" duration="1161000" />
+      <workItem from="1572942658170" duration="832000" />
+      <workItem from="1573019455544" duration="4586000" />
+      <workItem from="1573119672452" duration="29000" />
+      <workItem from="1573232828023" duration="2169000" />
+      <workItem from="1573380650680" duration="4369000" />
+      <workItem from="1573397010803" duration="387000" />
+      <workItem from="1573460674783" duration="21000" />
+      <workItem from="1573622601656" duration="2174000" />
+      <workItem from="1573643787919" duration="351000" />
+      <workItem from="1573878310486" duration="741000" />
+      <workItem from="1573906343182" duration="2014000" />
+      <workItem from="1573980775408" duration="4899000" />
+      <workItem from="1574010365923" duration="384000" />
+      <workItem from="1574062571069" duration="9244000" />
+      <workItem from="1574139933883" duration="8625000" />
+      <workItem from="1574224061863" duration="15522000" />
+      <workItem from="1574267174201" duration="1468000" />
+      <workItem from="1574311369258" duration="3977000" />
+      <workItem from="1574328215083" duration="7056000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1571766486784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571766486784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1571767297698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571767297698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pass characters using send keys.">
+      <created>1573021588067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573021588067</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Different ways of entering Character Sequence using SendKeys in Selenium">
+      <created>1573022706816</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573022706816</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Interface2">
+      <created>1573381848234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573381848234</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Casting Example">
+      <created>1573392275625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573392275625</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Polymorphism Examples.">
+      <created>1573992548406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573992548406</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Casting example">
+      <created>1574065502876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574065502876</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Stream Example1">
+      <created>1574077225900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574077225900</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Stream Example">
+      <created>1574077275220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574077275220</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Static Binding example">
+      <created>1574079894243</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574079894243</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dynamic Binding example">
+      <created>1574080132334</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574080132334</updated>
+    </task>
+    <task id="LOCAL-00013" summary="SingleTonClass example.">
+      <created>1574145757814</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574145757815</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Examples if Interfaces etc...">
+      <created>1574239085636</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574239085636</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Imtiyaz Recursion">
+      <created>1574331736644</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574331736644</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="APITestRunner - 2019.10.25 at 18h 45m 21s.xml">
+      <configuration name="APITestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APITestRunner - 2019.10.25 at 18h 46m 45s.xml">
+      <configuration name="APITestRunner" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1658000" />
+    <option name="totallyTimeSpent" value="79109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21538462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,8 +558,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.29840142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -310,8 +567,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50121456" side_tool="true" weight="0.38010657" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,27 +580,447 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21538462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.38010657" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50121456" side_tool="true" weight="0.38010657" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="Pass characters using send keys." />
+    <MESSAGE value="Different ways of entering Character Sequence using SendKeys in Selenium" />
+    <MESSAGE value="Interface2" />
+    <MESSAGE value="Casting Example" />
+    <MESSAGE value="Polymorphism Examples." />
+    <MESSAGE value="Casting example" />
+    <MESSAGE value="Stream Example1" />
+    <MESSAGE value="Stream Example" />
+    <MESSAGE value="Static Binding example" />
+    <MESSAGE value="Dynamic Binding example" />
+    <MESSAGE value="SingleTonClass example." />
+    <MESSAGE value="Examples if Interfaces etc..." />
+    <MESSAGE value="Imtiyaz Recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imtiyaz Recursion" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Eagles.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Marsupial.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kangroo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rodent.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Mouse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lion.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/SendCharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/country.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tiger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Cat.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/TestClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interviewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Office.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/ArrayListConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HackerRank/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Eagles.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="100">
+          <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Mew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/StreamsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SreeStreams/UseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.6.0-M1/junit-jupiter-api-5.6.0-M1.jar!/org/junit/jupiter/api/Test.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/APITestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HRExecutive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Collector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MockExams/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Office1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bindings/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/AnimalFeeder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
