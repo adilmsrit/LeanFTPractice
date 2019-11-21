@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MockExams/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HRExecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HRExecutive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="207">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -309,7 +302,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RecursionExample">
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imtiyaz.BinarySearch" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Imtiyaz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Boy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
       <module name="Practice" />
@@ -362,26 +368,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MockExams.adil" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MockExams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.RecursionExample" />
         <item itemvalue="Application.WithLists" />
         <item itemvalue="Application.Boy" />
         <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.adil" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +424,7 @@
       <workItem from="1574224061863" duration="15522000" />
       <workItem from="1574267174201" duration="1468000" />
       <workItem from="1574311369258" duration="3977000" />
-      <workItem from="1574328215083" duration="2202000" />
+      <workItem from="1574328215083" duration="7056000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1571766486784</created>
@@ -531,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574239085636</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Imtiyaz Recursion">
+      <created>1574331736644</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574331736644</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -543,7 +543,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74255000" />
+    <option name="totallyTimeSpent" value="79109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -558,7 +558,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.38010657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.29840142" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -630,7 +630,8 @@
     <MESSAGE value="Dynamic Binding example" />
     <MESSAGE value="SingleTonClass example." />
     <MESSAGE value="Examples if Interfaces etc..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Examples if Interfaces etc..." />
+    <MESSAGE value="Imtiyaz Recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imtiyaz Recursion" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Birds.java" />
@@ -945,8 +946,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="207">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
