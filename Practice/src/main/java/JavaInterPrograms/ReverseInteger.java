@@ -2,11 +2,11 @@ package JavaInterPrograms;
 
 public class ReverseInteger {
     public static void main(String... args) {
-        int num = 12345;
+        int i = 123456789;
         int rev = 0;
-        while (num != 0) {
-            rev = rev * 10 + num % 10;
-            num = num / 10;
+        while (i != 0) {
+            rev = rev * 10 + i % 10;
+            i = i / 10;
         }
         System.out.println(rev);
     }
