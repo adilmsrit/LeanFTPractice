@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="60">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -56,6 +65,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Eagles.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java" />
       </list>
     </option>
   </component>
@@ -168,13 +178,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseInteger">
-    <configuration name="RecursionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Imtiyaz.RecursionExample" />
+  <component name="RunManager" selected="Application.FindMissingNumber">
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.FindMissingNumber" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Imtiyaz.*" />
+          <option name="PATTERN" value="JavaInterPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMissingNumber" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.WithLists" />
         <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.RecursionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -259,16 +269,31 @@
       <workItem from="1570945552851" duration="26000" />
       <workItem from="1571766390215" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="Programs">
+      <created>1574348874611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574348874611</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ReverseInteger">
+      <created>1574359158898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574359158898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3279000" />
+    <option name="totallyTimeSpent" value="4502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21538462" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21538462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -277,8 +302,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -333,6 +358,23 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programs" />
+    <MESSAGE value="ReverseInteger" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReverseInteger" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -409,8 +451,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="60">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FindMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
