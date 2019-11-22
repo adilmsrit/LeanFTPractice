@@ -25,4 +25,5 @@ public class BinarySearch {
         int a = -1;
         System.out.println(binarySearch(a, i));
     }
+
 }
