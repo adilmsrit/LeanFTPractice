@@ -69,6 +69,4 @@ public class Revision1 {
         if (a == 0) return 1;
         return a * factorialOfNumber(--a);
     }
-
 }
-
