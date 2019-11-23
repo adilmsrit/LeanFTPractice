@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckisNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Generics/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/Revision1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/Revision1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckisNumeric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckisNumeric.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckisNumeric.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="27" selection-end-column="43" />
+            <state relative-caret-position="162">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -58,6 +59,8 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/Revesion1.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/Revision1.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckisNumeric.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Generics/GenericMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java" />
       </list>
     </option>
   </component>
@@ -86,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -118,7 +122,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="Naveen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -145,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Course" />
     </panes>
   </component>
@@ -170,7 +173,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckisNumeric">
+  <component name="RunManager" selected="Application.CallByValueAnfCallByRef">
+    <configuration name="CallByValueAnfCallByRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen.CallByValueAnfCallByRef" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Naveen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckisNumeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.CheckisNumeric" />
       <module name="Practice" />
@@ -184,25 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.FactorialOfANumber" />
+    <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.GenericMethodTest" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaInterPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDuplicateElementsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.FindDuplicateElementsInArray" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaInterPrograms.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CallByValueAnfCallByRef" />
+        <item itemvalue="Application.GenericMethodTest" />
         <item itemvalue="Application.CheckisNumeric" />
         <item itemvalue="Application.Revision1" />
         <item itemvalue="Application.WrapperClasses" />
-        <item itemvalue="Application.FactorialOfANumber" />
-        <item itemvalue="Application.FindDuplicateElementsInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +268,10 @@
       <workItem from="1574446847644" duration="79000" />
       <workItem from="1574478856666" duration="23000" />
       <workItem from="1574479200826" duration="3589000" />
-      <workItem from="1574486438638" duration="640000" />
+      <workItem from="1574486438638" duration="1551000" />
+      <workItem from="1574488061982" duration="229000" />
+      <workItem from="1574492158591" duration="941000" />
+      <workItem from="1574507079672" duration="1882000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -323,17 +329,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574483839451</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="CheckisNumeric">
+      <created>1574487125705</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574487125705</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15833000" />
+    <option name="totallyTimeSpent" value="19796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24129555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +366,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.35523978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -409,7 +422,8 @@
     <MESSAGE value="Factorial of number using &#10;1. For loop&#10;2. Recursion." />
     <MESSAGE value="WrapperClasses" />
     <MESSAGE value="Revesion 1: All programs in one." />
-    <option name="LAST_COMMIT_MESSAGE" value="Revesion 1: All programs in one." />
+    <MESSAGE value="CheckisNumeric" />
+    <option name="LAST_COMMIT_MESSAGE" value="CheckisNumeric" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -553,8 +567,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckisNumeric.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="660">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Generics/GenericMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>

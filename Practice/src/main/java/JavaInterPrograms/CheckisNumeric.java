@@ -10,11 +10,14 @@ public class CheckisNumeric {
         }
         int len = charSequence.length();
         for (int i = 0; i < len; i++) {
-            if (Character.isDigit(charSequence.charAt(i))) {
-                return true;
+            // If the character is digit then fine, if not a digit make the false as true and enter the
+            // loop and return false and break. Else continue till last. If all are digits
+            // finally print true.
+            if (!Character.isDigit(charSequence.charAt(i))) {
+                return false;
             }
         }
-        return false;
+        return true;
     }
     public static void main(String... args) {
         System.out.println(isNumeric(null));
@@ -27,5 +30,11 @@ public class CheckisNumeric {
         System.out.println(isNumeric("33333"));
         System.out.println(isNumeric("2sadsadsa"));
         System.out.println(isNumeric("asdasdada4"));
+        System.out.println(isNumeric("2.3"));
+        System.out.println(isNumeric("1 1 1 "));
+        System.out.println(isNumeric("0"));
+        System.out.println(isNumeric("+971"));
+        System.out.println(isNumeric("#@#@#"));
+        System.out.println(isNumeric("-988"));
     }
 }
