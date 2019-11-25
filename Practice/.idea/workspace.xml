@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SreeStreams/Colle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="100">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -82,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java" />
         <option value="$PROJECT_DIR$/src/main/java/SreeStreams/Colle.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java" />
       </list>
     </option>
   </component>
@@ -194,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckNumberIsPrime">
+  <component name="RunManager" selected="Application.PalindromeNumber">
     <configuration name="CallByValueAnfCallByRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Naveen.CallByValueAnfCallByRef" />
       <module name="Practice" />
@@ -247,8 +255,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Revision1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.Revision1" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.PalindromeNumber" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -262,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.CheckNumberIsPrime" />
         <item itemvalue="Application.CallByValueAnfCallByRef" />
         <item itemvalue="Application.GenericMethodTest" />
         <item itemvalue="Application.CheckisNumeric" />
-        <item itemvalue="Application.Revision1" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +304,7 @@
       <workItem from="1574575572411" duration="25000" />
       <workItem from="1574588491062" duration="4039000" />
       <workItem from="1574617345328" duration="781000" />
-      <workItem from="1574658295256" duration="320000" />
+      <workItem from="1574658295256" duration="2139000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -375,11 +383,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574515056284</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Prime Number">
+      <created>1574658722151</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574658722151</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25744000" />
+    <option name="totallyTimeSpent" value="27563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -464,7 +479,8 @@
     <MESSAGE value="CheckisNumeric" />
     <MESSAGE value="Call by value and call by reference." />
     <MESSAGE value="Call by value and call by reference1." />
-    <option name="LAST_COMMIT_MESSAGE" value="Call by value and call by reference1." />
+    <MESSAGE value="Prime Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime Number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,6 +496,12 @@
           <line>15</line>
           <properties />
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -636,8 +658,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="100">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
