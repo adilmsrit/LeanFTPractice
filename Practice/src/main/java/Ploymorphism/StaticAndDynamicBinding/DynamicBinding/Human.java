@@ -1,7 +1,7 @@
 package Ploymorphism.StaticAndDynamicBinding.DynamicBinding;
 
 public class Human {
-    public static void walk() {
+    public void walk() {
         System.out.println("Human walks");
     }
 }

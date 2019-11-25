@@ -1,7 +1,7 @@
 package Ploymorphism.StaticAndDynamicBinding.DynamicBinding;
 
 public class Boy extends Human {
-    public static void walk(){
+    public void walk(){
         System.out.println("Boy walks");
     }
 
@@ -11,8 +11,5 @@ public class Boy extends Human {
 
         humanObj1.walk();
         boyObj2.walk();
-
     }
-
-
 }
