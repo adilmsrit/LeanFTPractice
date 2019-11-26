@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/NumberPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shajahan/Counter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/StaticBinding/Boy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/StaticBinding/Human.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +21,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan/Counter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/NumberPattern.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Shajahan/Counter.java" />
       </list>
     </option>
   </component>
@@ -107,8 +117,6 @@
     </navigator>
     <panes>
       <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +148,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="Shajahan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -167,6 +175,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,20 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FibonacciSeries">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.ArmstrongNumber" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaInterPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Counter">
     <configuration name="Boy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
       <module name="Practice" />
@@ -223,6 +220,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.StaticBinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shajahan.Counter" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shajahan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Counter" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.NumberPattern" />
         <item itemvalue="Application.Boy (1)" />
         <item itemvalue="Application.Boy" />
-        <item itemvalue="Application.ArmstrongNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +303,8 @@
       <workItem from="1574588491062" duration="4039000" />
       <workItem from="1574617345328" duration="781000" />
       <workItem from="1574658295256" duration="5236000" />
-      <workItem from="1574668426442" duration="2694000" />
+      <workItem from="1574668426442" duration="3467000" />
+      <workItem from="1574790737139" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -414,17 +425,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574668546539</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Fibonacci Series.">
+      <created>1574672007946</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574672007946</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33354000" />
+    <option name="totallyTimeSpent" value="34518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19352227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13846155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -433,7 +451,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27531084" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40674955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38543516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -509,7 +527,8 @@
     <MESSAGE value="Check String is Palindrome." />
     <MESSAGE value="Check Number is Armstrong." />
     <MESSAGE value="Static Binding and Dynamic Binding program corrected." />
-    <option name="LAST_COMMIT_MESSAGE" value="Static Binding and Dynamic Binding program corrected." />
+    <MESSAGE value="Fibonacci Series." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci Series." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,7 +553,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java</url>
-          <line>13</line>
+          <line>15</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -745,10 +764,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
