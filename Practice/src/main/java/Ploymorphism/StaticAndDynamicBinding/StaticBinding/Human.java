@@ -1,4 +1,4 @@
-package Ploymorphism.StaticAndDynamicBinding;
+package Ploymorphism.StaticAndDynamicBinding.StaticBinding;
 
 public class Human {
     public static void walk() {

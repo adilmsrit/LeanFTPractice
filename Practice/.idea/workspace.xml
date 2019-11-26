@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shajahan/Counter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,19 +22,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ArmstrongNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state relative-caret-position="360">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +82,12 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ArmstrongNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/StaticBinding/Boy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/NumberPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Shajahan/Counter.java" />
       </list>
     </option>
   </component>
@@ -106,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,7 +148,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="Shajahan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -164,9 +175,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,9 +200,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArmstrongNumber">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.Counter">
+    <configuration name="Boy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.StaticBinding.Boy" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.StaticBinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shajahan.Counter" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shajahan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.FibonacciSeries" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -204,47 +253,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallByValueAnfCallByRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Naveen.CallByValueAnfCallByRef" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Naveen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckNumberIsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.CheckNumberIsPrime" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaInterPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.GenericMethodTest" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.PalindromeNumber" />
+    <configuration name="NumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.NumberPattern" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -258,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.CheckNumberIsPrime" />
-        <item itemvalue="Application.CallByValueAnfCallByRef" />
-        <item itemvalue="Application.GenericMethodTest" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.NumberPattern" />
+        <item itemvalue="Application.Boy (1)" />
+        <item itemvalue="Application.Boy" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +302,9 @@
       <workItem from="1574575572411" duration="25000" />
       <workItem from="1574588491062" duration="4039000" />
       <workItem from="1574617345328" duration="781000" />
-      <workItem from="1574658295256" duration="4207000" />
+      <workItem from="1574658295256" duration="5236000" />
+      <workItem from="1574668426442" duration="3467000" />
+      <workItem from="1574790737139" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -399,17 +411,38 @@
       <option name="project" value="LOCAL" />
       <updated>1574661929829</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Check Number is Armstrong.">
+      <created>1574663126886</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574663126886</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Static Binding and Dynamic Binding program corrected.">
+      <created>1574668546539</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574668546539</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fibonacci Series.">
+      <created>1574672007946</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574672007946</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29631000" />
+    <option name="totallyTimeSpent" value="34518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27044535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13846155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -418,8 +451,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27531084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5950267" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40674955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38543516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -492,7 +525,10 @@
     <MESSAGE value="Check Number is Palindrome." />
     <MESSAGE value="New Branch." />
     <MESSAGE value="Check String is Palindrome." />
-    <option name="LAST_COMMIT_MESSAGE" value="Check String is Palindrome." />
+    <MESSAGE value="Check Number is Armstrong." />
+    <MESSAGE value="Static Binding and Dynamic Binding program corrected." />
+    <MESSAGE value="Fibonacci Series." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci Series." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,9 +547,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ArmstrongNumber.java</url>
-          <line>15</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -528,20 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -677,15 +705,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="680">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/ArmstrongNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        <state relative-caret-position="215">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/StaticBinding/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/StaticBinding/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/NumberPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
