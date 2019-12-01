@@ -55,6 +55,20 @@ public class ArrayListNaveen {
             System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^");
         }
 
+        ArrayList<String> ar7 = new ArrayList<String>();
+        ArrayList<String> ar8 = new ArrayList<String>();
 
+        ar7.add("test");
+        ar7.add("selenium");
+        ar7.add("QTP");
+
+        ar8.add("test");
+        ar8.add("Java");
+
+        ar7.retainAll(ar8);
+
+        for (String s : ar7) {
+            System.out.println(s);
+        }
     }
 }

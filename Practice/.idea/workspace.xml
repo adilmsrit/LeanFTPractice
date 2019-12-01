@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AbsClassConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,12 +38,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+            <state relative-caret-position="246">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#579#588#0" expanded="true" />
                 <element signature="e#593#603#0" expanded="true" />
+                <element signature="e#1679#1687#0" expanded="true" />
+                <element signature="e#1736#1744#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -338,7 +338,7 @@
       <workItem from="1574923085847" duration="3000" />
       <workItem from="1574923177680" duration="51000" />
       <workItem from="1575101822732" duration="193000" />
-      <workItem from="1575191208037" duration="2570000" />
+      <workItem from="1575191208037" duration="3372000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -473,11 +473,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574791200961</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ListArray">
+      <created>1575193955372</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575193955372</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38030000" />
+    <option name="totallyTimeSpent" value="38832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -570,7 +577,8 @@
     <MESSAGE value="Static Binding and Dynamic Binding program corrected." />
     <MESSAGE value="Fibonacci Series." />
     <MESSAGE value="Class variable: Static and Instance Variable Difference. Counter example." />
-    <option name="LAST_COMMIT_MESSAGE" value="Class variable: Static and Instance Variable Difference. Counter example." />
+    <MESSAGE value="ListArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -854,12 +862,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+        <state relative-caret-position="246">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#579#588#0" expanded="true" />
             <element signature="e#593#603#0" expanded="true" />
+            <element signature="e#1679#1687#0" expanded="true" />
+            <element signature="e#1736#1744#0" expanded="true" />
           </folding>
         </state>
       </provider>
