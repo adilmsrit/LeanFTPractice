@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shajahan/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbsClassConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,29 +18,44 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="186">
+              <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#579#588#0" expanded="true" />
+                <element signature="e#593#603#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan/Counter.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding>
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -88,6 +105,9 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/NumberPattern.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java" />
         <option value="$PROJECT_DIR$/src/main/java/Shajahan/Counter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AbsClassConstructor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" />
       </list>
     </option>
   </component>
@@ -116,6 +136,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
@@ -148,7 +170,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Shajahan" type="462c0819:PsiDirectoryNode" />
+              <item name="Naveen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Naveen" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -175,8 +206,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +213,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LinkedInExcercise/SPRING/reservations" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -200,13 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Counter">
-    <configuration name="Boy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
+  <component name="RunManager" selected="Application.ArrayListNaveen">
+    <configuration name="ArrayListNaveen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen.Collections.ArrayListNaveen" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.*" />
+          <option name="PATTERN" value="Naveen.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.StaticBinding.Boy" />
+    <configuration name="Boy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.StaticBinding.*" />
+          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListNaveen" />
         <item itemvalue="Application.Counter" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.NumberPattern" />
         <item itemvalue="Application.Boy (1)" />
-        <item itemvalue="Application.Boy" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +333,12 @@
       <workItem from="1574617345328" duration="781000" />
       <workItem from="1574658295256" duration="5236000" />
       <workItem from="1574668426442" duration="3467000" />
-      <workItem from="1574790737139" duration="391000" />
+      <workItem from="1574790737139" duration="1064000" />
+      <workItem from="1574835587787" duration="22000" />
+      <workItem from="1574923085847" duration="3000" />
+      <workItem from="1574923177680" duration="51000" />
+      <workItem from="1575101822732" duration="193000" />
+      <workItem from="1575191208037" duration="2570000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -432,17 +466,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574672007946</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Class variable: Static and Instance Variable Difference. Counter example.">
+      <created>1574791200961</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574791200961</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34518000" />
+    <option name="totallyTimeSpent" value="38030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13846155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15060729" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -528,7 +569,8 @@
     <MESSAGE value="Check Number is Armstrong." />
     <MESSAGE value="Static Binding and Dynamic Binding program corrected." />
     <MESSAGE value="Fibonacci Series." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci Series." />
+    <MESSAGE value="Class variable: Static and Instance Variable Difference. Counter example." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class variable: Static and Instance Variable Difference. Counter example." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -764,13 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/FibonacciSeries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -780,11 +816,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Shajahan/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="40">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
           <folding>
+            <element signature="e#203#204#0" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
             <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AbsClassConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#579#588#0" expanded="true" />
+            <element signature="e#593#603#0" expanded="true" />
           </folding>
         </state>
       </provider>
