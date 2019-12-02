@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AbsClassConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/LinkedListNaveen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,24 +37,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/LinkedListNaveen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+            <state relative-caret-position="206">
+              <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#579#588#0" expanded="true" />
-                <element signature="e#593#603#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -108,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/main/java/AbsClassConstructor.java" />
         <option value="$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Naveen/Collections/LinkedListNaveen.java" />
       </list>
     </option>
   </component>
@@ -136,8 +125,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
@@ -229,26 +218,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListNaveen">
+  <component name="RunManager" selected="Application.LinkedListNaveen">
     <configuration name="ArrayListNaveen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Naveen.Collections.ArrayListNaveen" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Naveen.Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Boy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.Boy" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ploymorphism.StaticAndDynamicBinding.DynamicBinding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,6 +258,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedListNaveen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen.Collections.LinkedListNaveen" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Naveen.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.NumberPattern" />
       <module name="Practice" />
@@ -297,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListNaveen" />
         <item itemvalue="Application.ArrayListNaveen" />
         <item itemvalue="Application.Counter" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.NumberPattern" />
-        <item itemvalue="Application.Boy (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +327,8 @@
       <workItem from="1574923085847" duration="3000" />
       <workItem from="1574923177680" duration="51000" />
       <workItem from="1575101822732" duration="193000" />
-      <workItem from="1575191208037" duration="2570000" />
+      <workItem from="1575191208037" duration="4291000" />
+      <workItem from="1575258189109" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -473,17 +463,31 @@
       <option name="project" value="LOCAL" />
       <updated>1574791200961</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ListArray">
+      <created>1575193955372</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575193955372</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ListArray_Completed">
+      <created>1575194604539</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1575194604539</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38030000" />
+    <option name="totallyTimeSpent" value="40545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15060729" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15303643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -570,7 +574,9 @@
     <MESSAGE value="Static Binding and Dynamic Binding program corrected." />
     <MESSAGE value="Fibonacci Series." />
     <MESSAGE value="Class variable: Static and Instance Variable Difference. Counter example." />
-    <option name="LAST_COMMIT_MESSAGE" value="Class variable: Static and Instance Variable Difference. Counter example." />
+    <MESSAGE value="ListArray" />
+    <MESSAGE value="ListArray_Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListArray_Completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -845,6 +851,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#579#588#0" expanded="true" />
+            <element signature="e#593#603#0" expanded="true" />
+            <element signature="e#1679#1687#0" expanded="true" />
+            <element signature="e#1736#1744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -852,14 +872,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/ArrayListNaveen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Naveen/Collections/LinkedListNaveen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+        <state relative-caret-position="206">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#579#588#0" expanded="true" />
-            <element signature="e#593#603#0" expanded="true" />
           </folding>
         </state>
       </provider>
