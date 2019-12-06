@@ -1,5 +1,7 @@
 package Naveen.Collections;
 
+import PracticePrograms.StaticBlockDemo;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -54,6 +56,11 @@ public class ArrayListNaveen {
             System.out.println("With for each: " + e.role);
             System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^");
         }
+
+        StaticBlockDemo staticBlockDemo = new StaticBlockDemo();
+        StaticBlockDemo staticBlockDemo1 = new StaticBlockDemo();
+        StaticBlockDemo staticBlockDemo2 = new StaticBlockDemo();
+        StaticBlockDemo staticBlockDemo3 = new StaticBlockDemo();
 
         ArrayList<String> ar7 = new ArrayList<String>();
         ArrayList<String> ar8 = new ArrayList<String>();
