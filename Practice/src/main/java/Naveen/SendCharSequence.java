@@ -23,7 +23,7 @@ public class SendCharSequence {
 
         //2. Below uses String Builder.
         StringBuilder stringBuilder = new StringBuilder().append("Adil")
-                .append(" ").append("StringBuilder");
+                .append(" ").append("Prac");
 
         //3. Below uses String Buffer.
 
