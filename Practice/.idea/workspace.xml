@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbfd35a-8fbf-47d8-b018-cf9d741d2a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/EvenOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/Temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PracticePrograms/TempProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticePrograms/TempProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonClass/SingletonClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/EvenOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaInterPrograms/EvenOddNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,29 +37,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PracticePrograms/TempProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonClass/SingletonClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/EvenOddNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/Temp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="280">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,7 +85,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Generics/GenericMethodTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Naveen/CallByValueAnfCallByRef.java" />
         <option value="$PROJECT_DIR$/src/main/java/SreeStreams/Colle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/ArmstrongNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ploymorphism/StaticAndDynamicBinding/DynamicBinding/Human.java" />
@@ -127,7 +111,9 @@
         <option value="$PROJECT_DIR$/src/main/java/PracticePrograms/TempProgram.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonClass/SingleTonClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonClass/SingletonClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/EvenOddNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterPrograms/Temp.java" />
       </list>
     </option>
   </component>
@@ -193,9 +179,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +205,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvenOddNumber">
+  <component name="RunManager" selected="Application.Temp">
+    <configuration name="CheckNumberIsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.CheckNumberIsPrime" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaInterPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EvenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.EvenOddNumber" />
       <module name="Practice" />
@@ -246,22 +245,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticePrograms.StaticBlockDemo" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterPrograms.Temp" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticePrograms.*" />
+          <option name="PATTERN" value="JavaInterPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TempProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TempProgram" />
-      <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -281,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temp" />
         <item itemvalue="Application.EvenOddNumber" />
+        <item itemvalue="Application.CheckNumberIsPrime" />
         <item itemvalue="Application.SingletonClass" />
         <item itemvalue="Application.TempProgram" />
-        <item itemvalue="Application.TempProgram (1)" />
-        <item itemvalue="Application.StaticBlockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +330,10 @@
       <workItem from="1575690509053" duration="1293000" />
       <workItem from="1575695555304" duration="2303000" />
       <workItem from="1575783756140" duration="222000" />
-      <workItem from="1575974867434" duration="1523000" />
+      <workItem from="1575974867434" duration="2722000" />
+      <workItem from="1575979804687" duration="249000" />
+      <workItem from="1576063997463" duration="723000" />
+      <workItem from="1576126997073" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="Programs">
       <created>1574348874611</created>
@@ -515,17 +510,24 @@
       <option name="project" value="LOCAL" />
       <updated>1575697928553</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Find Odd Even number.">
+      <created>1575977656982</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1575977656982</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61517000" />
+    <option name="totallyTimeSpent" value="63944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24291497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +536,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1758437" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40852576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38543516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -593,7 +595,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programs" />
     <MESSAGE value="ReverseInteger" />
     <MESSAGE value="FindMissingNumber" />
     <MESSAGE value="FindDuplicateElementsInArray" />
@@ -618,7 +619,8 @@
     <MESSAGE value="HashMapConcept." />
     <MESSAGE value="Static Block Demo." />
     <MESSAGE value="Try, Catch, Finally, Throw, Throws example." />
-    <option name="LAST_COMMIT_MESSAGE" value="Try, Catch, Finally, Throw, Throws example." />
+    <MESSAGE value="Find Odd Even number." />
+    <option name="LAST_COMMIT_MESSAGE" value="Find Odd Even number." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,24 +671,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ploymorphism/WithLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Imtiyaz/RecursionExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -782,13 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1082,14 +1059,42 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/SingletonClass/SingletonClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/EvenOddNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="25">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/CheckNumberIsPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="5107" column="36" selection-start-line="5107" selection-start-column="36" selection-end-line="5107" selection-end-column="36" />
+          <folding>
+            <element signature="e#197352#197353#0" expanded="true" />
+            <element signature="e#197422#197423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterPrograms/Temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

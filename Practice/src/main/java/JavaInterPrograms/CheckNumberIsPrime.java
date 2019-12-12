@@ -3,7 +3,7 @@ package JavaInterPrograms;
 public class CheckNumberIsPrime {
 
     public static void main(String... args) {
-        int num = 100;
+        int num = 3;
         checkForPrime(num);
         printPrimeNumbers(num);
     }
